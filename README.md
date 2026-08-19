@@ -1,4 +1,4 @@
-# TCC-EducaParaAprender-2026
+# TCC-HDR-Hora-de-Estudar-2026
 
 Criação do projeto:06/08/2025
 
